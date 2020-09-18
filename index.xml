@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipan Subastian</title>
+    <link>http://ipansubastian.github.io/</link>
+    <description>Recent content on Ipan Subastian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Wed, 16 Sep 2020 14:08:58 +0700</lastBuildDate><atom:link href="http://ipansubastian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprint</title>
+      <link>http://ipansubastian.github.io/static/imprint/</link>
+      <pubDate>Wed, 16 Sep 2020 14:08:58 +0700</pubDate>
+      
+      <guid>http://ipansubastian.github.io/static/imprint/</guid>
+      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to My Website</title>
+      <link>http://ipansubastian.github.io/blog/welcome-to-my-website/</link>
+      <pubDate>Wed, 16 Sep 2020 13:53:18 +0700</pubDate>
+      
+      <guid>http://ipansubastian.github.io/blog/welcome-to-my-website/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium odio deserunt consequuntur consequatur, dolores quos quam laudantium perspiciatis veniam quis saepe repellendus dolore recusandae hic nulla eligendi, veritatis delectus! :)
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam fugit saepe rerum voluptatum. Quo est molestias, quae molestiae laborum cupiditate id enim. Amet ipsam in eius aliquid consequatur similique tenetur?
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nulla assumenda consequuntur aut velit.</description>
+    </item>
+    
+  </channel>
+</rss>
