@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ShortDisquis on Ipan Subastian</title>
-    <link>http://ipansubastian.github.io/shortdisquis/</link>
+    <link>https://ipansubastian.github.io/shortdisquis/</link>
     <description>Recent content in ShortDisquis on Ipan Subastian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id-id</language><atom:link href="http://ipansubastian.github.io/shortdisquis/index.xml" rel="self" type="application/rss+xml" />
+    <language>id-id</language><atom:link href="https://ipansubastian.github.io/shortdisquis/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
