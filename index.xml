@@ -2,29 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipan Subastian</title>
-    <link>https://ipansubastian.github.io/</link>
+    <link>http://localhost:5000/</link>
     <description>Recent content on Ipan Subastian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:08:58 +0700</lastBuildDate><atom:link href="https://ipansubastian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2020 19:02:28 +0700</lastBuildDate><atom:link href="http://localhost:5000/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Imprint</title>
-      <link>https://ipansubastian.github.io/static/imprint/</link>
-      <pubDate>Wed, 16 Sep 2020 14:08:58 +0700</pubDate>
+      <title>Tools Untuk Belajar Javascript di Smartphone Android</title>
+      <link>http://localhost:5000/blog/tools-untuk-belajar-javascript-di-smartphone-android/</link>
+      <pubDate>Wed, 23 Sep 2020 19:02:28 +0700</pubDate>
       
-      <guid>https://ipansubastian.github.io/static/imprint/</guid>
-      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas fringilla tempus urna ac laoreet. Curabitur sed bibendum lectus. Vivamus gravida venenatis porttitor.</description>
+      <guid>http://localhost:5000/blog/tools-untuk-belajar-javascript-di-smartphone-android/</guid>
+      <description>Sistem Operasi Android bisa dibilang Sistem Operasi mobile yang canggih, dan di toko aplikasi milik Android sendiri yaitu Google Play Store telah tersedia berbagai aplikasi premium. Namun tidak untuk keperluan programming, Aplikasi pendukung untuk programming bisa dibilang masih kurang.
+Aplikasi-aplikasi untuk keperluan programming seperti text editor, IDE, compiler dan sebagainya belum tercukupi atau kurang ketersediaan di Google Play Store. Tapi meski begitu masih ada alternatif-alternatif lain sebagai jalan keluar jika anda ingin menulis kode di Smartphone Android anda.</description>
     </item>
     
     <item>
-      <title>Welcome to My Website</title>
-      <link>https://ipansubastian.github.io/blog/welcome-to-my-website/</link>
-      <pubDate>Wed, 16 Sep 2020 13:53:18 +0700</pubDate>
+      <title>Kenapa Software Bajakan dianggap Wajar di Indonesia</title>
+      <link>http://localhost:5000/blog/kenapa-software-bajakan-dianggap-wajar-di-indonesia/</link>
+      <pubDate>Wed, 23 Sep 2020 18:22:06 +0700</pubDate>
       
-      <guid>https://ipansubastian.github.io/blog/welcome-to-my-website/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt accusantium odio deserunt consequuntur consequatur, dolores quos quam laudantium perspiciatis veniam quis saepe repellendus dolore recusandae hic nulla eligendi, veritatis delectus! :)
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam fugit saepe rerum voluptatum. Quo est molestias, quae molestiae laborum cupiditate id enim. Amet ipsam in eius aliquid consequatur similique tenetur?
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nulla assumenda consequuntur aut velit.</description>
+      <guid>http://localhost:5000/blog/kenapa-software-bajakan-dianggap-wajar-di-indonesia/</guid>
+      <description>Menggunakan sebuah Software sejatinya merupakan hak individu seseorang, tapi hal ini tidak berlaku untuk penggunaan Software yang melanggar hak atas kekayaan intelektual. Dengan kata lain seseorang tidak bisa dikatakan berhak jika Software yang dia gunakan adalah Software bajakan.
+Memang bukan hal yang aneh, masih banyak orang yang memakai Software bajakan. Mulai dari perorangan sampai ke ruang lingkup sebuah perusahaan. Mulai dari bisnis kecil sampai bisnis yang punya omset lumayan.
+Saya tentu tak bisa memukul rata semua pengguna Software berbayar sebagai pengguna Software bajakan.</description>
+    </item>
+    
+    <item>
+      <title>Memahami Sintaks Markdown</title>
+      <link>http://localhost:5000/blog/memahami-sintaks-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:5000/blog/memahami-sintaks-markdown/</guid>
+      <description>Markdown merupakan bahasa markup yang lebih sederhana daripada HTML. Markdown sendiri sering dipakai untuk memformat teks yang tidak terlalu kompleks, tapi butuh pemformatan yang dapat memberi sedikit Style pada file tersebut.
+Sintaks Markdown sendiri sangat sederhana, dan tag-tag Markdown tidak sebanyak tag HTML. Dan biasanya digunakan untuk membuat File Readme.md dalam sebuah project Open Source. Jika anda menemukan file teks berekstensi .md bisa dipastikan itu adalah file Markdown.
+Baik, mari kita mengenal Markdown lebih dalam dan mempelajari Sintaks-nya.</description>
     </item>
     
   </channel>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ipan Subastian</title>
-    <link>https://ipansubastian.github.io/categories/</link>
+    <link>http://localhost:5000/categories/</link>
     <description>Recent content in Categories on Ipan Subastian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id-id</language><atom:link href="https://ipansubastian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>id-id</language><atom:link href="http://localhost:5000/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
